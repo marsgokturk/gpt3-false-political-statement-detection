@@ -25,3 +25,9 @@ To reproduce our work, follow these steps:
 ## Experiment Tracking
 
 We used [Weights & Biases](https://wandb.ai/site) for experiment tracking. OpenAI's integration with Weights & Biases allows for easy synchronization of experiment results. Our experiment results can be accessed in our [Weights & Biases project page](https://api.wandb.ai/links/mars-works/b6w8u2mi).
+
+## Acknowledgments
+
+We would like to express our sincere gratitude to Christopher Potts, the course professor of the Stanford Artificial Intelligence professional program: Natural Language Understanding XCS224U class. 
+His exceptional teaching and guidance were instrumental in the successful completion of this project. 
+We are also grateful to the course facilitators for their valuable support throughout the course.
