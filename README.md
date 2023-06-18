@@ -1,6 +1,6 @@
 # Assessing the Effectiveness of GPT-3 in Detecting False Political Statements
 
-This repository contains the code and data used in our academic paper: "Assessing the Effectiveness of GPT-3 in Detecting False Political Statements: A Case Study on the LIAR Dataset".
+This repository contains the code and data used in our academic paper: [Assessing the Effectiveness of GPT-3 in Detecting False Political Statements: A Case Study on the LIAR Dataset](https://arxiv.org/abs/2306.08190).
 
 ## Project Description
 
@@ -31,3 +31,17 @@ We used [Weights & Biases](https://wandb.ai/site) for experiment tracking. OpenA
 We would like to express our sincere gratitude to Christopher Potts, the course professor of the Stanford Artificial Intelligence professional program: Natural Language Understanding XCS224U class. 
 His exceptional teaching and guidance were instrumental in the successful completion of this project. 
 We are also grateful to the course facilitators for their valuable support throughout the course.
+
+## Citation
+If you use our code in your research, please cite our work:
+```bibtex
+@misc{buchholz2023assessing,
+      title={Assessing the Effectiveness of GPT-3 in Detecting False Political Statements: A Case Study on the LIAR Dataset}, 
+      author={Mars Gokturk Buchholz},
+      year={2023},
+      eprint={2306.08190},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
